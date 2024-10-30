@@ -18,6 +18,10 @@ This project is an online shop API developed using Django Rest Framework.
 
 • List of Cloud Objects
 
+• Celery
+
+• Celery beat
+
 • ...and more!
 
 ▎Custom User Implementation
